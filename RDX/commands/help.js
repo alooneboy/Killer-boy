@@ -86,7 +86,7 @@ function showDefaultHelp({ api, event, send, client, config }) {
   });
 
   content += style.STYLES.dividerSmall + '\n';
-  content += `  💡 Use ${config.PREFIX}help all (Full List)\n  👤 Owner: SARDAR RDX`;
+  content += `  💡 Use ${config.PREFIX}help all (Full List)\n  👤 Owner: KILLER BOY`;
   
   return send.reply(style.createBox(`✨ ${config.BOTNAME.toUpperCase()} MENU ✨`, content));
 }
