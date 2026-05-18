@@ -38,7 +38,7 @@ module.exports = {
 ╠════════════════════════════╣
 ║ 👋 Hello Everyone!
 
-║ I'm ${config.BOTNAME || 'RDX Bot'}
+║ I'm ${config.BOTNAME || 'killer Bot'}
 ║ I'm now your group assistant
 
 ║ Use .help for commands
